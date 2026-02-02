@@ -1,4 +1,4 @@
-<!--
+<!--GET /projects/:id/integrations
 
 ---
 name: test-specialist
